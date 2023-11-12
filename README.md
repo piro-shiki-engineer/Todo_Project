@@ -4,6 +4,6 @@
 
 言語：Python、HTMML
 
-フレームワーク：Djangp、bootstrap
+フレームワーク：Django、bootstrap
 
 その他：docker

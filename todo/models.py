@@ -1,7 +1,7 @@
 from django.db import models
 
 
-CHOICE = (('danger', 'high'), ('normal', 'warning'), ('primary', 'low'))
+CHOICE = (('danger', 'high'), ('warning', 'normal'), ('info', 'low'))
 
 
 class TodoModel(models.Model):
